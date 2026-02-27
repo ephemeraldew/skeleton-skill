@@ -1,6 +1,6 @@
 # skeleton-skill
 
-> Enables AI agents to bootstrap complete, production-ready project structures in seconds.
+> A skill that enables Code Agent to effortlessly build professional project structures.
 
 ## ✨ Features
 
